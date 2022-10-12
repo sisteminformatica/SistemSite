@@ -1,1 +1,1 @@
-# SistemSite
+# SistemSite - Sistem Informática
